@@ -1,5 +1,9 @@
 # wanted-pre-onboarding-challenge-fe-2
 
+## URL
+
+https://sckroll.github.io/wanted-pre-onboarding-challenge-fe-2/
+
 ## 개요
 
 ### 리포지토리 설명
